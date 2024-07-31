@@ -19,7 +19,7 @@ The dataset used in this project contains various features related to stroke ris
 
 The dataset consists of 43,400 rows and 43 columns before preprocessing.
 
-- [Dataset File: Brain_stroke_dataset.csv](https://github.com/SpringBoard-Batch02-StrokePrediction/Group_1/blob/main/Brain_stroke_dataset.csv)
+- [Dataset File: Brain_stroke_dataset.csv](https://github.com/AartiM03/Brain_Stroke_Prediction/blob/main/Brain_stroke_dataset.csv)
 
 ## Models Used
 
