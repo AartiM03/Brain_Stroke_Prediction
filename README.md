@@ -17,7 +17,7 @@ The dataset used in this project contains various features related to stroke ris
 - **Stroke History**
 - **Family Stroke History**
 
-The dataset consists of 43,400 rows and 43 columns before preprocessing.
+The dataset consists of 43,400 rows and 12 columns before preprocessing.
 
 - [Dataset File: Brain_stroke_dataset.csv](https://github.com/AartiM03/Brain_Stroke_Prediction/blob/main/Brain_stroke_dataset.csv)
 
